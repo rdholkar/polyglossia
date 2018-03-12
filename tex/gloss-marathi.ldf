@@ -11,7 +11,7 @@ and may look very wrong.}
 \RequirePackage{devanagaridigits}
 
 \PolyglossiaSetup{marathi}{
-  script=Devaganari,
+  script=Devanagari,
   scripttag=deva,
   langtag=MAR,
   hyphennames={marathi},
@@ -47,11 +47,11 @@ and may look very wrong.}
    \def\appendixname{परिशिष्ट}%
    \def\contentsname{अनुक्रमणिका}%
    \def\listfigurename{आकृत्यांची यादी}%
-   \def\listtablename{कॊष्टकांची यादी}%
+   \def\listtablename{कोष्टकांची यादी}%
    \def\indexname{सूची}%
-   \def\figurename{आक्रुती}%
+   \def\figurename{आकृती}%
    \def\tablename{कोष्टक}%
-   %\def\thepart{}% TODO
+   %\def\thepart{भाग}% 
    \def\partname{भाग}%
    \def\pagename{पान}%
    \def\seename{पहा}%
@@ -60,7 +60,7 @@ and may look very wrong.}
    \def\ccname{सि.सि.}%
    \def\headtoname{प्रति}%
    \def\proofname{सिद्धता}%
-   \def\glossaryname{स्पष्टीकरणांची यादी}%
+   \def\glossaryname{स्पष्टीकरणकोश}%
 }
 \def\datemarathi{%
    \def\marathimonth{%
